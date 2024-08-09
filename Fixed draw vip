@@ -1,0 +1,464 @@
+<div class="container">
+        <!-- Header -->
+        <div class="header">100% FIXED DRAW MATCH</div>
+<div class="container">
+        <!-- Header -->
+        <div class="header"></tr>
+</table>
+Contact App Owner: <a href="https://t.me/vVIP_Team_Leader ">Tap Here✅</a></p></div>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: 'Es Setif', Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+            background-color: blue; /* Set background color to blue */
+        }
+        .container {
+            width: 850px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+        }
+        .matches {
+            background-color: #ff0000; /* Changed color to red */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+            -webkit-user-select: none; /* Disable text selection on webkit browsers */
+            -moz-user-select: none; /* Disable text selection on Firefox */
+            -ms-user-select: none; /* Disable text selection on Internet Explorer */
+            user-select: none; /* Disable text selection on all browsers */
+        }
+        .matches th {
+            color: yellow; /* Make header text yellow */
+        }
+        .outcome-unknown {
+            color: #00FF00; /* Set text color to a very high green */
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+        .blur-text {
+            filter: blur(75px); /* Apply blur effect */
+            cursor: pointer;
+        }
+    </style>
+    <script>
+        function revealAllText() {
+            const password = prompt("Enter the password:");
+            if (password === "0188") {
+                const blurredElements = document.querySelectorAll('.blur-text');
+                blurredElements.forEach(element => {
+                    element.style.filter = "none";
+                    element.style.cursor = "default";
+                });
+                document.querySelectorAll('.blur-text').forEach(el => el.removeEventListener('click', revealAllText));
+            } else {
+                alert("Incorrect password!");
+            }
+        }
+
+        window.onload = function() {
+            document.querySelectorAll('.blur-text').forEach(el => el.addEventListener('click', revealAllText));
+        }
+
+        document.addEventListener('contextmenu', event => event.preventDefault()); // Disable right-click context menu
+    </script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">08.08.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td class="blur-text"><b>UEFA Champion</b></td>
+                    <td class="blur-text"><b> Kryvbas 🆚 Viktoria Plzen </b></td>
+                    <td class="blur-text"><b>FT DRAW</b></td>
+                    <td class="blur-text"><b>4.20</b></td>
+                   <td class="table-cell"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Gray_circles_rotate.gif" alt="loading" width="20" height="20"></td>  
+                </tr>
+                <tr>
+                    <td class="blur-text"><b>UEFA</b></td>
+                    <td class="blur-text"><b>Partizan🆚 Lugano </b></td>
+                    <td class="blur-text"><b>FT DRAW</b></td>
+                    <td class="blur-text"><b>3.74</b></td>
+               <td class="table-cell"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Gray_circles_rotate.gif" alt="loading" width="20" height="20"></td>  
+                </tr>
+                <tr>
+                    <td class="blur-text"><b>Club Friendly</b></td>
+                    <td class="blur-text"><b>Olympiacos   🆚 Nottingham</b></td>
+                    <td class="blur-text"><b>FT DRAW</b></td>
+                    <td class="blur-text"><b>3.56</b></td>
+                   <td class="table-cell"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Gray_circles_rotate.gif" alt="loading" width="20" height="20"></td>  
+                </tr>
+                <tr>
+                    <td colspan="3"><b>Total Odds</b></td>
+                    <td>55.92</tdtd>
+               <td class="table-cell"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Gray_circles_rotate.gif" alt="loading" width="20" height="20"></td>   
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: 'Es Setif', Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+            background-color: blue; /* Set background color to blue */
+        }
+        .container {
+            width: 850px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+        }
+        .matches {
+            background-color: #ff0000; /* Changed color to red */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+            -webkit-user-select: none; /* Disable text selection on webkit browsers */
+            -moz-user-select: none; /* Disable text selection on Firefox */
+            -ms-user-select: none; /* Disable text selection on Internet Explorer */
+            user-select: none; /* Disable text selection on all browsers */
+        }
+        .matches th {
+            color: yellow; /* Make header text yellow */
+        }
+        .outcome-unknown {
+            color: #00FF00; /* Set text color to a very high green */
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">07.08.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td><b>UEFA Champion</b></td>
+                    <td><b>Slovan Bratislava 🆚 APOEL</b></td>
+                    <td><b>FT DRAW</b></td>
+                    <td><b>3.32</b></td>
+                   <td class="table-cell"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Gray_circles_rotate.gif" alt="loading" width="20" height="20"></td>  
+                </tr>
+                <tr>
+                    <td><b>JAPAN</b></td>
+                    <td><b>Cerezo Osaka 🆚 Machida Zelvia </b></td>
+                    <td><b>FT DRAW</b></td>
+                    <td><b>3.34</b></td>
+                <td class="outcome-unknown">✔✔✔</td>   
+                </tr>
+                <tr>
+                    <td><b>JAPAN</b></td>
+                    <td><b>Kawasaki Frontale 🆚 Vissel Kobe </b></td>
+                    <td><b>FT DRAW</b></td>
+                    <td><b>3.68</b></td>
+                   <td class="table-cell"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Gray_circles_rotate.gif" alt="loading" width="20" height="20"></td>  
+                </tr>
+                <tr>
+                    <td colspan="3"><b>Total Odds</b></td>
+                    <td>40.80</td>
+                <td class="outcome-unknown">Bad Luck 1/3 ☑</td>   
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: 'Es Setif', Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+            background-color: blue; /* Set background color to blue */
+        }
+        .container {
+            width: 850px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+        }
+        .matches {
+            background-color: #ff0000; /* Changed color to red */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+            -webkit-user-select: none; /* Disable text selection on webkit browsers */
+            -moz-user-select: none; /* Disable text selection on Firefox */
+            -ms-user-select: none; /* Disable text selection on Internet Explorer */
+            user-select: none; /* Disable text selection on all browsers */
+        }
+        .matches th {
+            color: yellow; /* Make header text yellow */
+        }
+        .outcome-unknown {
+            color: #00FF00; /* Set text color to a very high green */
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">06.08.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td><b>AFC Champion</b></td>
+                    <td><b>Sepahan Isfahan 🆚 Shahab Al Ahli Dubai </b></td>
+                    <td><b>FT DRAW</b></td>
+                    <td><b>2.95</b></td>
+                    <td class="outcome-unknown">✔✔✔</td>
+                </tr>
+                <tr>
+                    <td><b>ARGENTINA</b></td>
+                    <td><b>Argentino de Quilmes 🆚 Defortivo Armenio </b></td>
+                    <td><b>FT DRAW</b></td>
+                    <td><b>3.00</b></td>
+                    <td class="outcome-unknown">✔✔✔</td> 
+                </tr>
+                <tr>
+                    <td><b>UEFA Champion</b></td>
+                    <td><b>DYN KYIV  🆚 RANGERS </b></td>
+                    <td><b>FT DRAW</b></td>
+                    <td><b>3.38</b></td>
+                    <td class="outcome-unknown">✔✔✔</td>
+                </tr>
+                <tr>
+                    <td colspan="3"><b>Total Odds</b></td>
+                    <td>29.92</td>
+                    <td class="outcome-unknown">BOOM✔</td> 
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Predictions</title>
+    <style>
+        body {
+            font-family: 'Es Setif', Arial, sans-serif;
+            font-weight: bold; /* Make all text bold */
+            margin: 0; /* Remove left side empty space */
+            background-color: blue; /* Set background color to blue */
+        }
+        .container {
+            width: 850px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: black; /* Make date text black */
+            text-align: center;
+            padding: 5px 0;
+            font-size: 14px;
+        }
+        .matches {
+            background-color: #ff0000; /* Changed color to red */
+            padding: 5px;
+            margin-bottom: 5px;
+        }
+        .matches table {
+            width: 100%;
+            border-collapse: collapse;
+            color: white;
+            font-size: 12px;
+        }
+        .matches th, .matches td {
+            padding: 5px;
+            border: 1px solid black; /* Border color is black */
+            text-align: center;
+            background: linear-gradient(to bottom, #333, #000);
+            box-shadow: inset 1px 1px 0 #444, inset -1px -1px 0 #000;
+            -webkit-user-select: none; /* Disable text selection on webkit browsers */
+            -moz-user-select: none; /* Disable text selection on Firefox */
+            -ms-user-select: none; /* Disable text selection on Internet Explorer */
+            user-select: none; /* Disable text selection on all browsers */
+        }
+        .matches th {
+            color: yellow; /* Make header text yellow */
+        }
+        .outcome-unknown {
+            color: #00FF00; /* Set text color to a very high green */
+        }
+        .outcome-known {
+            color: green;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">27.08.2024</div>
+        
+        <!-- Matches Table -->
+        <div class="matches">
+            <table>
+                <tr>
+                    <th>COUNTRY</th>
+                    <th>MATCH</th>
+                    <th>TIPS</th>
+                    <th>ODDS</th>
+                    <th>OUTCOME</th>
+                </tr>
+                <tr>
+                    <td><b>Argentina</b></td>
+                    <td><b>Atletico Brown 🆚 Chaco For Ever </b></td>
+                    <td><b>FT DRAW</b></td>
+                    <td><b>3.00</b></td>
+                     <td class="outcome-unknown">✔✔✔</td>
+                </tr>
+                <tr>
+                    <td><b>Argentina</b></td>
+                    <td><b>Chacarita Juniors  🆚 Estudiantes De Buenos</b></td>
+                    <td><b>FT DRAW</b></td>
+                    <td><b>3.00</b></td>
+                    <td class="outcome-unknown">✔✔✔</td>
+                </tr>
+                <tr>
+                    <td><b>Argemtina</b></td>
+                    <td><b>San Lorenzo 🆚 Old Boys </b></td>
+                    <td><b>FT DRAW</b></td>
+                    <td><b>3.00</b></td>
+                  <td class="outcome-unknown">✔✔✔</td>
+                </tr>
+                <tr>
+                    <td colspan="3"><b>Total Odds</b></td>
+                    <td>27.00</td>
+                    <td class="outcome-unknown">BOOM✔</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html> 
